@@ -1,2 +1,2 @@
 # FdF
-first project with graphical
+First graphics school project named FdF
